@@ -1,6 +1,8 @@
 * {
     margin: 0;
     width: auto;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 @media screen and (min-width: 991px) {
